@@ -1,0 +1,1 @@
+const a={busuanzi:!0,lang:"zh-cn",codeFoldingStartLines:16,ga:!0},e={enable:!1,tip:"感谢大佬送来的咖啡☕",wechatQRCode:"/WeChatQR.png",alipayQRCode:"/AliPayQR.png",paypalUrl:"https://paypal.me/cirry0?country.x=C2&locale.x=zh_XC"};export{a as c,e as d};
