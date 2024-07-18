@@ -1,0 +1,1 @@
+import"./Donate.astro_astro_type_script_index_0_lang.B_TiQtXS.js";import"./WalineComment.astro_astro_type_script_index_0_lang.DYaw75rQ.js";import"./formatDate.pQxXPSbt.js";import"./consts.B7-fJjKg.js";import"./_commonjsHelpers.Cpj98o6Y.js";document.body.querySelectorAll("a").forEach(e=>{e.setAttribute("rel","nofollow noreferrer")});document.getElementById("waline-comment");
